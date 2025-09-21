@@ -1,5 +1,5 @@
 # 🧑‍💻 Adult Census Income Prediction
-
+## This project is based on learning in OSTAD.com e-learning Data Science and Machine Learning Course ##
 This project predicts whether a person earns **>50K** or **<=50K** annually using the **Adult Census Income dataset**.  
 It demonstrates a full ML pipeline with preprocessing, visualization, multiple models, and hyperparameter tuning.
 
