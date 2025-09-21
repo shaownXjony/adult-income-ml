@@ -5,16 +5,6 @@ It demonstrates a full ML pipeline with preprocessing, visualization, multiple m
 
 ---
 
-## 📂 Project Structure
-adult-income-ml/
-│
-├── data/ # dataset (optional, ignored in .gitignore)
-├── notebooks/ # Jupyter notebook (Final.ipynb)
-├── results/ # saved plots & metrics
-├── requirements.txt # dependencies
-├── README.md # project description
-└── .gitignore # ignored files
-
 ---
 
 ## 🚀 Workflow
